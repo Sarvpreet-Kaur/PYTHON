@@ -1,4 +1,4 @@
-🐍 Python Learning Repository
+## 🐍 Python Learning Repository
 
 Welcome to my **Python Learning Repository**!  
 This repo contains all my **code**, **notes**, and **practice exercises** as I explore the Python programming language — from **basics to advanced** topics.
@@ -48,7 +48,7 @@ To run any script:
    python --version
 
 2. Clone the repo:
-   git clone https://github.com/Sarvpreet-Kaur/PYTHON
+   git clone <https://github.com/Sarvpreet-Kaur/PYTHON>
 
 3. Navigate and run any `.py` file using:
    python filename.py
@@ -57,16 +57,16 @@ To run any script:
 
 This repository is my personal reference and learning hub while mastering Python. It may also help others who are:
 
-* Beginning their Python journey
-* Looking for well-organized code examples
-* Brushing up on advanced concepts
+- Beginning their Python journey
+- Looking for well-organized code examples
+- Brushing up on advanced concepts
 
 ---
 
 ## 📎 Notes
 
-* This is a **work in progress** — content will be updated regularly.
-* Contributions are welcome if you'd like to collaborate or suggest improvements.
+- This is a **work in progress** — content will be updated regularly.
+- Contributions are welcome if you'd like to collaborate or suggest improvements.
 
 ---
 
@@ -76,5 +76,4 @@ Feel free to reach out on [GitHub](https://github.com/Sarvpreet-Kaur) or leave f
 
 ---
 
-### ⭐ If you find this helpful, consider starring the repo!
-
+### ⭐ If you find this helpful, consider starring the repo
