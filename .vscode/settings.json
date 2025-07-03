@@ -1,6 +1,11 @@
 {
     "cSpell.words": [
+        "dsplit",
+        "dstack",
+        "hstack",
         "ndenumerate",
-        "newarr"
+        "newarr",
+        "searchsorted",
+        "vsplit"
     ]
 }
