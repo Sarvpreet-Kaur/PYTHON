@@ -11,7 +11,7 @@ def equal():
     try:
         result = str(eval(expr))
         display.set(result)
-        expr = ""
+        expr = result
     except:
         display.set("error")
         expr = ""

@@ -1,11 +1,19 @@
 {
     "cSpell.words": [
+        "columnspan",
         "dsplit",
         "dstack",
         "hstack",
+        "ipadx",
+        "ipady",
+        "lightyellow",
+        "mult",
         "ndenumerate",
         "newarr",
+        "padx",
+        "pady",
         "searchsorted",
+        "textvariable",
         "vsplit"
     ]
 }
